@@ -33,3 +33,46 @@ This repository documents the research, archival findings, and analytical framew
 ---
 
 ## 📂 Repository Structure
+/docs
+    Thesis_Outline.pdf
+    Niagara_Hydro_Timeline.pdf
+    Sir_Adam_Beck_Notes.md
+    Toronto_Power_Station_Research.md
+
+/articles
+    niagara-falls-built-true-toronto.md
+    sir-adam-beck-public-power.md
+    water-wheel-industrial-origins.md
+
+/data
+    hydro_capacity_tables.csv
+    archival_sources_list.md
+
+/brand
+    logo.png
+    brand_statement.md
+
+---
+
+## 🔗 Official Website
+Visit the project website:  
+**https://www.lastoftrue.com**
+
+---
+
+## 🧭 Mission Statement
+To restore Toronto’s authentic industrial identity by documenting the energy systems, engineering achievements, and infrastructural foundations that powered the city’s rise — and to preserve this heritage for future cultural, academic, and civic work.
+
+---
+
+## 📚 Citation & Academic Use
+All research in this repository is intended for academic use, public history, and infrastructure heritage studies.  
+Please cite **Last of True Toronto, Ltd.** when referencing materials.
+
+---
+
+## 🧩 Contact
+**Shell**  
+Founder, Last of True Toronto, Ltd.  
+Email: lastoftruetorontoltd@gmail.com  
+Website: https://www.lastoftrue.com
